@@ -5,4 +5,6 @@ This project is a simple yet powerful tool for downloading YouTube videos direct
 Why I Made This Project?
 
 Downloading YouTube videos is a common need, but many people struggle to find reliable tools that respect simplicity and functionality. I built this project to:
-Learn about Python libraries like pytube and tkinter. And Creates a user-friendly interface for selecting save locations using dialog boxes.Additionally, I aimed to build something practical that showcases my technical skills in a way that aligns with everyday problems people face.
+Learn about Python libraries like pytube and tkinter.
+And Create a user-friendly interface for selecting save locations using dialog boxes.
+Additionally, I aimed to build something practical that showcases my technical skills in a way that aligns with everyday problems people face.
